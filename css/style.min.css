@@ -2493,6 +2493,9 @@ iframe {
   }
 }
 @media (max-width: 650px) {
+  #header__padding-3 {
+  margin-top: 130px;
+  }
   .burger-button {
     margin: 0 100% -1070px 0;
   }
